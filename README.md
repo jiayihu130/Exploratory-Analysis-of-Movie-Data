@@ -29,8 +29,8 @@ Hypotheses:
 Autumn is the season for horror movies.
 
 ![微信截图_20240624185712](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/1a73312e-b0a5-4d2c-a1af-c53d19cf9f74)
+![3](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/9e57732e-3d3e-4a70-9979-9d67db537daa)
 
-![微信截图_20240624185728](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/603fb878-9bf7-4ccb-b69d-5c018c080b45)
 The best movies according to the vote returns high profit and revenue.
 The best movies according to the popularity returns high profit and revenue.
 Highly budgeted movies return high revenue and profit.
