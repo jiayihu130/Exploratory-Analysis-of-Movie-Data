@@ -26,15 +26,20 @@ which genres has the highest number of movies with an voting avg. >=8 ?
 
 Hypotheses:
 
-Autumn is the season for horror movies.
+1.Autumn is the season for horror movies.
 
 ![微信截图_20240624185712](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/1a73312e-b0a5-4d2c-a1af-c53d19cf9f74)
 ![3](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/9e57732e-3d3e-4a70-9979-9d67db537daa)
 
-The best movies according to the vote returns high profit and revenue.
-The best movies according to the popularity returns high profit and revenue.
-Highly budgeted movies return high revenue and profit.
-Highly budgeted movies have high popularity.
+Although there were lots of horror film released in October, Family movie won the most revenue.\
+
+2.The best movies according to the vote returns high profit and revenue.
+
+3.The best movies according to the popularity returns high profit and revenue.
+
+4.Highly budgeted movies return high revenue and profit.
+
+5.Highly budgeted movies have high popularity.
 
 
 # Data Visualization
