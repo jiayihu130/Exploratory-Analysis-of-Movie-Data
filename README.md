@@ -36,17 +36,21 @@ Hypotheses:
 
 1.Autumn is the season for horror movies.
 
+Although Halloween is in Autumn, Family movies are the most popular for this season.
+
 ![微信截图_20240624185712](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/1a73312e-b0a5-4d2c-a1af-c53d19cf9f74)
 ![3](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/9e57732e-3d3e-4a70-9979-9d67db537daa)
 
 2.The best movies according to the vote returns high profit and revenue.
 
 There isn't a strong correlation between those factors
+
 ![image](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/444002da-aa4b-422d-bfef-44d79e5811c3)
 
 3.The best movies according to the popularity returns high profit and revenue.
 
 This is correct.
+
 ![image](https://github.com/jiayihu130/Exploratory-Analysis-of-Movie-Data/assets/163877307/5ea708c0-d0d2-4a60-90e0-12def09ac873)
 
 4.Highly budgeted movies return high revenue and profit.
